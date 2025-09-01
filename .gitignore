@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Data/results (do NOT commit big files)
+data/raw/
+results/
+*.xlsx
+*.xls
+*.csv
+
+# Jupyter
+.ipynb_checkpoints
+
+# IDE
+.vscode/
