@@ -4,7 +4,7 @@ __pycache__/
 venv/
 .env
 
-# Data/results (do NOT commit big files)
+# Data/results ()
 data/raw/
 results/
 *.xlsx
